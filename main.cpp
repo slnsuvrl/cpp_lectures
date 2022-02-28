@@ -1,3 +1,13 @@
 #include <cstdio>
 
-int main() { std::printf("%s\n", "Hello World"); }
+int main()
+{
+     std::printf("Enter a list of numbers (0 to end): ")
+     int sum = 0;
+     int num = 0;
+
+     while (true)
+     {
+         std::scanf("%d",&num);
+         if
+     }
